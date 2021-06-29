@@ -27,7 +27,7 @@ This was a Software Development Project developed for the practical course work 
 - Optimising Web UI
 - Deploying Application
 
-## Contributors
+### Contributors
   - Sameer Patel
   - Ankita Patil
   - Manasi Patil
